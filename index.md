@@ -24,7 +24,7 @@ My current research interests lie at computer graphics, focusing on geometric co
 
 ---
 
-# Publication
+## Publication
 
 -  DualMS: Implicit Dual-Channel Minimal Surface Optimization for Heat Exchanger Design<br>
 
