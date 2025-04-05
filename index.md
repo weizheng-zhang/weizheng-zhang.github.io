@@ -45,7 +45,12 @@ My current research interests lie in computer graphics, focusing on geometric co
 
 ---
 
-## Awards
+## Honors & Awards
 
-
+- **May 2023**: Outstanding Student of Higher Education Institutions in Shandong Province
+- **December 2022**: Shandong Provincial Government Scholarship
+- **June 2022**: First prize in Blue Bridge Cup National Software and Information Technology Talent Competition
+- **May 2022**: First prize in Group Programming Ladder Tournament
+- **June 2021**: Silver Medal in 2020 International Collegiate Programming Contest (ICPC) Asia Shenyang Regional Contest 
+- **November 2020**: Bronze Medal in 2020 China Collegiate Programming Contest (CCPC), Changchun Site 
 
