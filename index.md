@@ -14,7 +14,7 @@ I am a first year Ph.D candidate in the [School of Computer Science and Technolo
 
 My current research interests lie in computer graphics, focusing on geometric computation and its application for digital fabrication.
 
-
+<br>
 
 ---
 
@@ -22,7 +22,7 @@ My current research interests lie in computer graphics, focusing on geometric co
 
 - **March 29, 2025** ：One paper conditionally accepted by SIGGRAPH 2025!
 
-
+<br>
 
 ---
 
@@ -43,7 +43,7 @@ My current research interests lie in computer graphics, focusing on geometric co
 
 
 
-
+<br>
 
 ---
 
