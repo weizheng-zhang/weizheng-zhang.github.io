@@ -6,6 +6,8 @@ layout: page
 
 <img src="./weizhengzhang.jpg" class="floatpic">
 
+<br>
+
 Here is **Weizheng Zhang (张卫正)**.<br>
 
 I am a first year Ph.D candidate in the [School of Computer Science and Technology](http://www.cs.sdu.edu.cn/), [Shandong University (SDU)](http://www.sdu.edu.cn/), advised by [Prof. Lin Lu ](http://irc.cs.sdu.edu.cn/~lulin/index.html), with in [Interdisciplinary Research Center](http://irc.cs.sdu.edu.cn/).
