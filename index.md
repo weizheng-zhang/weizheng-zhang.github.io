@@ -26,9 +26,9 @@ My current research interests lie at computer graphics, focusing on geometric co
 
 ## Publication
 
-<table width="90%" border="0" align="center" cellpadding="10" cellspacing="10" style="text-align:left">
+<table width="120%" border="0" align="center" cellpadding="10" cellspacing="10" style="text-align:left">
     <tr>
-        <td align="center"><img src="../images/DualMS/DualMS.png" width="450" /></td>
+        <td align="center"><img src="../images/DualMS/DualMS.png" width="30%" /></td>
         <td>
             <p>
                 <strong>DualMS: Implicit Dual-Channel Minimal Surface Optimization for Heat Exchanger Design</strong><br>
