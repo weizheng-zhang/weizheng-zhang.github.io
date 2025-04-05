@@ -20,7 +20,7 @@ My current research interests lie in computer graphics, focusing on geometric co
 
 ## News and Updates
 
-- **March 29, 2025** ：One paper conditionally accepted by SIGGRAPH 2025!
+- **Mar. 29, 2025** ：One paper conditionally accepted by SIGGRAPH 2025!
 
 <br>
 
@@ -50,9 +50,9 @@ My current research interests lie in computer graphics, focusing on geometric co
 ## Honors & Awards
 
 - **May 2023**: Outstanding Student of Higher Education Institutions in Shandong Province
-- **December 2022**: Shandong Provincial Government Scholarship
-- **June 2022**: First prize in Blue Bridge Cup National Software and Information Technology Talent Competition
+- **Dec. 2022**: Shandong Provincial Government Scholarship
+- **Jun. 2022**: First prize in Blue Bridge Cup National Software and Information Technology Talent Competition
 - **May 2022**: First prize in Group Programming Ladder Tournament
-- **June 2021**: Silver Medal in 2020 International Collegiate Programming Contest (ICPC) Asia Shenyang Regional Contest 
-- **November 2020**: Bronze Medal in 2020 China Collegiate Programming Contest (CCPC), Changchun Site 
+- **Jun. 2021**: Silver Medal in 2020 International Collegiate Programming Contest (ICPC) Asia Shenyang Regional Contest 
+- **Nov. 2020**: Bronze Medal in 2020 China Collegiate Programming Contest (CCPC), Changchun Site 
 
