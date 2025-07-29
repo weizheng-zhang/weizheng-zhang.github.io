@@ -20,7 +20,7 @@ My current research interests lie in computer graphics, focusing on geometric co
 
 ## News and Updates
 
-- **Mar. 29, 2025** ：One paper conditionally accepted by SIGGRAPH 2025!
+- **Apr. 20, 2025** ：One paper accepted by SIGGRAPH 2025!
 
 <br>
 
@@ -35,12 +35,14 @@ My current research interests lie in computer graphics, focusing on geometric co
             <p>
                 <strong>DualMS: Implicit Dual-Channel Minimal Surface Optimization for Heat Exchanger Design</strong><br>
                 <b><a href="https://weizheng-zhang.github.io">Weizheng Zhang</a></b>, <a href="https://haopan.github.io/">Hao Pan</a>, <a href="http://irc.cs.sdu.edu.cn/~lulin/index.html">Lin Lu*</a>, Xiaowei Duan, <a href="https://ringednebulae.github.io/personal-webpage/">Xin Yan</a>, Ruonan Wang, Qiang Du <br>
-                SIGGRAPH 2025 (Conditionally Accepted, Conference Paper).<br>
+                SIGGRAPH 2025 (Conference Track).<br>
                 <a href="../mypaper/DualMS/DualMS.html">[Project Page]</a>
+                <a href="https://github.com/weizheng-zhang/DualMS">[Code]</a>
             </p>
         </td>
     </tr>
 </table>
+
 
 
 
