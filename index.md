@@ -10,7 +10,7 @@ layout: page
 
 Here is **Weizheng Zhang (张卫正)**.<br>
 
-I am a first year Ph.D candidate in the [School of Computer Science and Technology](http://www.cs.sdu.edu.cn/), [Shandong University (SDU)](http://www.sdu.edu.cn/), supervised by [Prof. Lin Lu ](http://irc.cs.sdu.edu.cn/~lulin/index.html), within [Interdisciplinary Research Center](http://irc.cs.sdu.edu.cn/).
+I am a second year Ph.D candidate in the [School of Computer Science and Technology](http://www.cs.sdu.edu.cn/), [Shandong University (SDU)](http://www.sdu.edu.cn/), supervised by [Prof. Lin Lu ](http://irc.cs.sdu.edu.cn/~lulin/index.html), within [Interdisciplinary Research Center](http://irc.cs.sdu.edu.cn/).
 
 My current research interests lie in computer graphics, focusing on geometric computation and its application for digital fabrication.
 
@@ -20,7 +20,8 @@ My current research interests lie in computer graphics, focusing on geometric co
 
 ## News and Updates
 
-- **Apr. 20, 2025** ：One paper accepted by SIGGRAPH 2025!
+- **Dec. 27, 2025** :  Invited talk at the Doctoral Forum of the 10th CAAI National Intelligent Interaction Forum, Beijing.
+- **Apr. 20, 2025** :  One paper accepted by SIGGRAPH 2025!
 
 <br>
 
