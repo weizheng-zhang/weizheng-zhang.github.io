@@ -20,6 +20,7 @@ My current research interests lie in computer graphics, focusing on geometric co
 
 ## News and Updates
 
+- **May 1, 2026** :  One paper accepted by ICML 2026!
 - **Dec. 27, 2025** :  Invited talk at the Doctoral Forum of the 10th CAAI National Intelligent Interaction Forum, Beijing.
 - **Apr. 20, 2025** :  One paper accepted by SIGGRAPH 2025!
 
@@ -43,7 +44,26 @@ My current research interests lie in computer graphics, focusing on geometric co
         </td>
     </tr>
 </table>
-
+<table width="100%" border="0" align="center" cellpadding="10" cellspacing="10" style="text-align:left">
+    <tr>
+        <td align="center"><img src="../images/MUSA-PINN/MusaPINN_teaser.jpg" width="500" /></td>
+        <td>
+            <p>
+                <strong>MUSA-PINN: Multi-scale Weak-form Physics-Informed Neural Networks for Fluid Flow in Complex Geometries</strong><br>
+                <b><a href="https://weizheng-zhang.github.io">Weizheng Zhang†</a></b>,
+                Xunjie Xie†
+                <a href="https://haopan.github.io/">Hao Pan</a>, 
+                Xiaowei Duan, 
+                Bingteng Sun, 
+                <a href="http://www.iet.cas.cn/sourcedb/zw/experts/202401/t20240102_6940596.html">Qiang Du</a>
+                <a href="http://irc.cs.sdu.edu.cn/~lulin/index.html">Lin Lu*</a>
+                <br>
+                ICML2026.<br>
+                <a href="../MUSA-PINN/index.html">[Project Page]</a>
+            </p>
+        </td>
+    </tr>
+</table>
 
 
 
