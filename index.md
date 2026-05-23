@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="./weizhengzhang.jpg" class="floatpic">
+
 
 <br>
 
