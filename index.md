@@ -32,22 +32,7 @@ My current research interests lie in computer graphics, focusing on geometric co
 
 <table width="100%" border="0" align="center" cellpadding="10" cellspacing="10" style="text-align:left">
     <tr>
-        <td align="center"><img src="../images/DualMS/DualMS.png" width="500" /></td>
-        <td>
-            <p>
-                <strong>DualMS: Implicit Dual-Channel Minimal Surface Optimization for Heat Exchanger Design</strong><br>
-                <b><a href="https://weizheng-zhang.github.io">Weizheng Zhang</a></b>, <a href="https://haopan.github.io/">Hao Pan</a>, <a href="http://irc.cs.sdu.edu.cn/~lulin/index.html">Lin Lu*</a>, Xiaowei Duan, <a href="https://ringednebulae.github.io/personal-webpage/">Xin Yan</a>, Ruonan Wang, Qiang Du <br>
-                SIGGRAPH 2025 (Conference Track).<br>
-                <a href="../DualMS/">[Project Page]</a>
-                <a href="https://github.com/weizheng-zhang/DualMS">[Code]</a>
-            </p>
-        </td>
-    </tr>
-</table>
-
-<table width="100%" border="0" align="center" cellpadding="10" cellspacing="10" style="text-align:left">
-    <tr>
-        <td align="center"><img src="../images/MUSA-PINN/MusaPINN_teaser.jpg" width="500" /></td>
+        <td align="center" width="38%"><img src="../images/MUSA-PINN/MusaPINN_teaser.jpg"/></td>
         <td>
             <p>
                 <strong>MUSA-PINN: Multi-scale Weak-form Physics-Informed Neural Networks for Fluid Flow in Complex Geometries</strong><br>
@@ -68,7 +53,7 @@ My current research interests lie in computer graphics, focusing on geometric co
 
 <table width="100%" border="0" align="center" cellpadding="10" cellspacing="10" style="text-align:left">
     <tr>
-        <td align="center"><img src="../images/DualMS/DualMS.png" width="500" /></td>
+        <td align="center" width="38%"><img src="../images/DualMS/DualMS.png"/></td>
         <td>
             <p>
                 <strong>DualMS: Implicit Dual-Channel Minimal Surface Optimization for Heat Exchanger Design</strong><br>
