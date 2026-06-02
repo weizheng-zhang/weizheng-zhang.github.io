@@ -243,17 +243,73 @@
     <!--/ Abstract. -->
 
     <!-- Paper video. -->
-    <!-- <div class="columns is-centered has-text-centered">
+    <div class="columns is-centered has-text-centered">
       <div class="column is-four-fifths">
         <h2 class="title is-3">Video</h2>
         <div class="publication-video">
-          <iframe src="https://www.youtube.com/embed/MrKrnHhk8IA?rel=0&amp;showinfo=0"
+          <iframe src="./static/videos/MUSA-PINN.mp4"
                   frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
         </div>
       </div>
-    </div> -->
+    </div>
     <!--/ Paper video. -->
+
+    <!-- Paper pipeline. -->
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-full">
+        <div class="content has-text-left">
+          <h2 class="title is-3">Pipeline</h2>
+        </div>
+        <img src="./static/images/pipeline.png" alt="Overview Image" style="width: 100%; height: auto; ">
+      </div>
+    </div>
+    <!--/ Paper pipeline. -->
+
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-full">
+        <div class="content has-text-left">
+          <h2 class="title is-3">Local Flow Fidelity</h2>
+          <p>
+            We compare velocity magnitude on a representative Gyroid slice at
+            <span style="font-family: 'Times New Roman', serif;"><i>x</i> = 0.5</span>.
+            MUSA-PINN better preserves local flow structures and high-gradient regions near curved boundaries,
+            while baseline PINNs tend to over-smooth the velocity field and produce larger localized errors.
+          </p>
+        </div>
+        <img src="./static/images/G_slice_x0.500_6models.png" alt="localSlice" style="width: 100%; height: auto; ">
+      </div>
+    </div>
+
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-full">
+        <div class="content has-text-left">
+          <h2 class="title is-3">Global Mass Conservation</h2>
+          <p>
+            We evaluate physical consistency by tracking the normalized mass flow rate
+            <span style="font-family: 'Times New Roman', serif;">Q(<i>x</i>)/Q<sub>in</sub></span>
+            along the streamwise direction. Baseline methods show clear mass leakage inside the domain,
+            whereas MUSA-PINN stays close to the ideal conservation line and preserves flux continuity.
+          </p>
+        </div>
+        <img src="./static/images/GlobalMassConservation.png" alt="GlobalMassConservation" style="width: 80%; height: auto; ">
+      </div>
+    </div>
+
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-full">
+        <div class="content has-text-left">
+          <h2 class="title is-3">Longitudinal Flow Development</h2>
+          <p>This longitudinal slice spans the full streamwise direction, <span style="font-family: 'Times New Roman', serif; font-style: italic;">x</span> &isin; [0, 5], providing a compact view of how velocity evolves along tortuous passages. Compared with baseline PINNs, MUSA-PINN better preserves the high-velocity structures and remains closer to the CFD reference throughout the channel.</p>
+        </div>
+        <img src="./static/images/Gplane_XY_slice_z0.500-1.png" alt="globalSlice" style="width: 80%; height: auto; ">
+      </div>
+    </div>
+
   </div>
+
+  <!-- Local flow fidelity in the Gyroid geometry -->
+
+
 </section>
 
 
