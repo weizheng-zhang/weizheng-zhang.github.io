@@ -12,7 +12,7 @@ Here is **Weizheng Zhang (张卫正)**.<br>
 
 I am a second year Ph.D candidate in the [School of Computer Science and Technology](http://www.cs.sdu.edu.cn/), [Shandong University (SDU)](http://www.sdu.edu.cn/), supervised by [Prof. Lin Lu ](http://irc.cs.sdu.edu.cn/~lulin/index.html), within [Interdisciplinary Research Center](http://irc.cs.sdu.edu.cn/).
 
-My current research interests lie in computer graphics, focusing on geometric computation and its application for digital fabrication.
+My research interests lie in computer graphics and geometric computation, with a focus on physics-aware modeling and computational design.
 
 <br>
 
@@ -44,7 +44,7 @@ My current research interests lie in computer graphics, focusing on geometric co
                 <a href="http://www.iet.cas.cn/sourcedb/zw/experts/202401/t20240102_6940596.html">Qiang Du</a>
                 <a href="http://irc.cs.sdu.edu.cn/~lulin/index.html">Lin Lu*</a>
                 <br>
-                ICML2026.<br>
+                ICML 2026.<br>
                 <a href="../MUSA-PINN/">[Project Page]</a>
             </p>
         </td>
